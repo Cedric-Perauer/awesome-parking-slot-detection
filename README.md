@@ -26,7 +26,7 @@ Parking Slot Detection research. This is a fork from [lymhust/awesome-parking-sl
 
 ## 2023 
 
-["Review of Vision-Based Deep Learning Parking Slot Detection on Surround View Images"](https://www.mdpi.com/1424-8220/23/15/6869)
+["Review of Vision-Based Deep Learning Parking Slot Detection on Surround View Images"](https://www.mdpi.com/1424-8220/23/15/6869)      
 ["Holistic Parking Slot Detection with Polygon-Shaped Representations"](https://arxiv.org/pdf/2310.11629.pdf)      
 ["Automatic vision-based parking slot detection and occupancy classification"](https://www.sciencedirect.com/science/article/abs/pii/S0957417423006498)
 
