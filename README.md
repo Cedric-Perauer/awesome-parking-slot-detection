@@ -25,12 +25,14 @@ Parking Slot Detection research. This is a fork from [lymhust/awesome-parking-sl
 ## 2024
 
 ["Detection of car parking space by using Hybrid Deep DenseNet Optimization algorithm". International Journal of Network Management 34.1 (2024): e2228.](https://onlinelibrary.wiley.com/doi/abs/10.1002/nem.2228?casa_token=mKVXzklc7i8AAAAA%3AZZWz-rbuPLAl8eHaQImYXTslYG2bzJo3xWFnkGYKKv-z5C8EVkWViTuTRTDAJK4i5ssBf4406fJ9Kq0)
+["Enhanced Parking Perception by Multi-Task Fisheye Cross-view Transformers"](https://arxiv.org/pdf/2408.12575)
 
 ## 2023 
 
 ["Review of Vision-Based Deep Learning Parking Slot Detection on Surround View Images"](https://www.mdpi.com/1424-8220/23/15/6869)      
 ["Holistic Parking Slot Detection with Polygon-Shaped Representations"](https://arxiv.org/pdf/2310.11629.pdf)      
 ["Automatic vision-based parking slot detection and occupancy classification"](https://www.sciencedirect.com/science/article/abs/pii/S0957417423006498)
+["Transformer-Based Parking Slot Detection Using Fixed Anchor Points"](https://www.researchgate.net/publication/373971777_Transformer-based_Parking_Slot_Detection_Using_Fixed_Anchor_Points)
 
 ## 2022
 
